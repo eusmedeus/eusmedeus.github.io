@@ -19,12 +19,11 @@ navbar-links:
     - Beautiful Jekyll (Page Source): "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Useful Links:
-    - Tech:
-      - Github.com: "https://github.com"
-      - GitLab: "https://gitlab.com"
-      - oh-my-zsh: "https://ohmyz.sh/"
-      - Docker: "https://docs.docker.com/"
-      - Ansible: "https://docs.ansible.com/ansible/latest/index.html"
+    - Github.com: "https://github.com"
+    - GitLab: "https://gitlab.com"
+    - oh-my-zsh: "https://ohmyz.sh/"
+    - Docker: "https://docs.docker.com/"
+    - Ansible: "https://docs.ansible.com/ansible/latest/index.html"
 
 
 # --- Logo --- #
