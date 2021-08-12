@@ -6,6 +6,7 @@ cover-img: /assets/img/gettyimages-1217472748-1024x1024.jpg
 thumbnail-img: /assets/img/hello_world.jpg
 tags: [story]
 ---
+
 ##Why?
 Well **I** thought about doing a blog for a 'long time' now, so why not ?
 You **don't have to read it** - so if you don't like this [leave](https://eusmedeus.github.io)
