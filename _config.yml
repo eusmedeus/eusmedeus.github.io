@@ -6,17 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: What am I doing?
+title: Back to the Front
 
 # Your name to show in the footer
-author: yours truly **Eus**
+author: Eusmedeus
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Useful Stuff:
-    - sample page: "sample"
+  About: "aboutme"
+  Favorite Tools:
+      - Win10: "FavToolsWin10"
+    #  - MacOS: "FavToolsMacOS11"
+    #  - RHEL: "FavToolsRHEL"
+  External Stuff:
     - oh-my-zsh: "https://ohmyz.sh/"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Beautiful Jekyll (Page Source): "https://beautifuljekyll.com"
@@ -75,7 +78,7 @@ rss-description: This website is a virtual proof that I'm mediocrly awesome
 share-links-active:
   twitter: true
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
