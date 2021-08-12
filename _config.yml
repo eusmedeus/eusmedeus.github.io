@@ -15,17 +15,11 @@ author: yours truly **Eus**
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - testing:
-      - test: "googel.com"
-    - Beautiful Jekyll (Page Source): "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Useful Links:
-    - Github.com: "https://github.com"
-    - GitLab: "https://gitlab.com"
+  Useful Stuff:
+    - sample page: "sample"
     - oh-my-zsh: "https://ohmyz.sh/"
-    - Docker: "https://docs.docker.com/"
-    - Ansible: "https://docs.ansible.com/ansible/latest/index.html"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Beautiful Jekyll (Page Source): "https://beautifuljekyll.com"
 
 
 # --- Logo --- #
