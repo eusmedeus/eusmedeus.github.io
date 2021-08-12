@@ -16,9 +16,16 @@ author: yours truly Eus
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll (Page Source): "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Source Template: "https://deanattali.com"
+  Useful Links:
+    - Tech:
+      - Github.com: "https://github.com"
+      - GitLab: "https://gitlab.com"
+      - oh-my-zsh: "https://ohmyz.sh/"
+      - Docker: "https://docs.docker.com/"
+      - Ansible: "https://docs.ansible.com/ansible/latest/index.html"
+
 
 # --- Logo --- #
 
