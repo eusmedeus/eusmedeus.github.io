@@ -8,9 +8,9 @@ tags: [tech]
 Hey, just to keep this short, without much explanation, a list of tools I personally use to make my life as a Sysadmin easier.
 I'm not yet too sure about the order of things, but we'll figure this out as we go.
 
-#General
+# General
 
-#For Windows
+# For Windows
 Tools I basically use on every Windows machine
 
 ## 1password
