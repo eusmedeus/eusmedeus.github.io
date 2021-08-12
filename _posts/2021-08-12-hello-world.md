@@ -10,7 +10,7 @@ tags: [story]
 ##Why?
 Well **I** thought about doing a blog for a 'long time' now, so why not ?
 You **don't have to read it** - so if you don't like this [leave](https://eusmedeus.github.io)
----
+
 Ok - that is a very _bad_ joke, even for my tastes. Anyhow, lets get on with it
 
 ##Seriously why though
@@ -33,7 +33,7 @@ Maybe also a bit of tech stuff, something about games and maybe a few stories bu
 
 
 yours truly
----
+
 Eusmedeus
 
 (what am I doing here...)
