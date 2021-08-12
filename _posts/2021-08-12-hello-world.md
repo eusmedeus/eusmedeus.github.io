@@ -6,7 +6,6 @@ cover-img: /assets/img/gettyimages-1217472748-1024x1024.jpg
 thumbnail-img: /assets/img/hello_world.jpg
 tags: [story]
 ---
-
 ##Why?
 
 Well **I** thought about doing a blog for a 'long time' now, so why not ?
@@ -30,6 +29,7 @@ yep thats _IT_ move along now (Drag up your feed the jokes ain't forced but they
 Maybe also a bit of tech stuff, something about games and maybe a few stories buuuut lets face it - this is probably yet another tech Blog **yay!**
 
 ###who doesn't _looooooove_ tech blogs
+...
 
 #Exactly!
 
