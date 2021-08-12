@@ -9,13 +9,15 @@
 title: What am I doing?
 
 # Your name to show in the footer
-author: yours truly Eus
+author: yours truly **Eus**
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - testing:
+      - test: "googel.com"
     - Beautiful Jekyll (Page Source): "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Useful Links:
