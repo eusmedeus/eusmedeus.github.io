@@ -6,7 +6,6 @@ cover-img: /assets/img/gettyimages-1217472748-1024x1024.jpg
 thumbnail-img: /assets/img/hello_world.jpeg
 tags: [story]
 ---
-# Fri Aug 12 17:38:14 CEST 2021
 ## Why?
 Well **I** thought about doing a blog for a 'long time' now, so why not ?
 You **don't have to read it** - so if you don't like this you can [leave](https://eusmedeus.github.io)
@@ -42,3 +41,4 @@ yours truly
 Eusmedeus
 
 (what am I doing here...)
+Fri Aug 12 17:38:14 CEST 2021
