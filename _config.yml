@@ -14,12 +14,13 @@ author: Eusmedeus
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "aboutme"
-  Favorite Tools:
-      - Win10: "FavToolsWin10"
+  Click:
+    - About: "aboutme"
+    - Windows 10 tool set: "FavToolsWin10"
     #  - MacOS: "FavToolsMacOS11"
     #  - RHEL: "FavToolsRHEL"
-  External Stuff:
+  Stuff:
+    - Tag Index: "tags"
     - oh-my-zsh: "https://ohmyz.sh/"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Beautiful Jekyll (Page Source): "https://beautifuljekyll.com"
@@ -29,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
