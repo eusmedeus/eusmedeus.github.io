@@ -8,7 +8,7 @@ tags: [story]
 ---
 # Thoughts
 So since dicovering [this project](https://github.com/daattali/beautiful-jekyll#readme) yesterday, I couldn't help but wonder - do people still read blogs?
-I mean apart from folks who is at least remotely interested in Tech.
+I mean apart from folks who are at least remotely interested in Tech.
 
 Still I didn't approach this in search for some internet fame, for such things the web has become way to toxic in my opionion.
 
@@ -21,7 +21,8 @@ Yet no one, not even the most pros in there field know everything there is.
 With that mindset, I think I'll start collecting few little this and thats on this page, hopeing it will someday help someone.
 Even made my first collection of tools I use on a daily basis as an item on the main page
 
-P.S. My other half suggested to write something about AI and well, see this post ? **Waaaaay** less effort way more fun than starting to research all there is to AI now :P
+### P.S.
+My other half suggested to write something about AI and well, see this post ? **Waaaaay** less effort way more fun than starting to research all there is to AI now :P
 
 yours truly
 
